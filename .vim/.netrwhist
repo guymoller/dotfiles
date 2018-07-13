@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/guy/workspace/vehiculum/app/queries'
+let g:netrw_dirhist_2='/Users/guy/workspace/vehiculum'
+let g:netrw_dirhist_3='/Users/guy/workspace/vehiculum/app'
+let g:netrw_dirhist_4='/Users/guy/workspace/vehiculum/app/commands'
+let g:netrw_dirhist_5='/Users/guy/workspace/vehiculum/app/commands/customer'
+let g:netrw_dirhist_6='/Users/guy/workspace/vehiculum'
+let g:netrw_dirhist_7='/Users/guy/workspace/vehiculum/bin'
